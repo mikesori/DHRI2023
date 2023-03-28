@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 # University of Miami
 
 Here is some content.
