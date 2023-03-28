@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hello DHRI 2023 in Markdown
 ---
 
